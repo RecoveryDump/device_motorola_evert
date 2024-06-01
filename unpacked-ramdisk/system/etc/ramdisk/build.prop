@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=evert
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=moto g(6) plus
+ro.product.bootimage.name=evolution_evert
+ro.bootimage.build.date=Fri Aug 25 21:16:51 -03 2023
+ro.bootimage.build.date.utc=1693009011
+ro.bootimage.build.fingerprint=motorola/evolution_evert/evert:13/TQ3C.230805.001.B2/uzumaki08252116:userdebug/release-keys
+ro.bootimage.build.id=TQ3C.230805.001.B2
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=1693009142
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
